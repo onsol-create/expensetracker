@@ -1,4 +1,4 @@
-// --- CATEGORIES DEFINITION ---
+// --- CATEGORIES DEFINITIO ---
 const CATEGORIES = {
     EXPENSE: [
         { id: 'food', name: 'Food & Dining', icon: 'fa-utensils', color: '#f59e0b', badgeClass: 'bg-amber-500/10 text-amber-400 border-amber-500/20' },
